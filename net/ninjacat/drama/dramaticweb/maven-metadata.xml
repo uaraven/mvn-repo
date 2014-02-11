@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.ninjacat.drama</groupId>
+  <artifactId>dramaticweb</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140211005508</lastUpdated>
+  </versioning>
+</metadata>
